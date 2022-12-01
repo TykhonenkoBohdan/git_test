@@ -22,11 +22,13 @@ $conn = new PDO
     'root'
 );
 
-$sql = $conn->query('select * from library.authors')->fetchAll(PDO::Ass);
+// $sql = $conn->query('select * from library.authors')->fetchAll(PDO::Ass);
 
-echo '<pre>';
+// echo '<pre>';
 
-var_dump($sql);
+// var_dump($sql);
 
 echo 'Hello new';
+
+'<h3>Hello GitHub</h3>';
 
