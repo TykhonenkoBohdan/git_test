@@ -1,0 +1,14 @@
+{
+    "name": "bogdan/php-oop",
+    "autoload": {
+        "psr-4": {
+            "Bogdan\\PhpOop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "b.tykhonenko"
+        }
+    ],
+    "require": {}
+}
