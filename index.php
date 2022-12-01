@@ -32,9 +32,8 @@ echo 'Hello new';
 
 '<h3>Hello GitHub</h3>';
 
-<<<<<<< HEAD
+
 echo "Master";
-=======
 echo 'Hello branch2';
 
->>>>>>> branch2
+
